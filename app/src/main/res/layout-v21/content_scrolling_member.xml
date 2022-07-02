@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".home.ActivityHomeMemberScrolling"
+    tools:showIn="@layout/activity_scrolling_home_member">
+
+    <LinearLayout
+        android:id="@+id/layout_home"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:baselineAligned="false"
+            android:orientation="horizontal"
+            android:padding="16dp">
+
+            <LinearLayout
+                android:id="@+id/logo_boitinhyeu"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center_horizontal|center_vertical"
+                android:orientation="vertical"
+                tools:ignore="UseCompoundDrawables">
+
+                <ImageView
+                    style="@style/home_image"
+                    android:adjustViewBounds="true"
+                    android:src="@drawable/icon_boitinhyeu"
+                    tools:ignore="ContentDescription" />
+
+                <TextView
+                    style="@style/home_text_style"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="@string/home_boitinhyeu"
+                    android:textColor="@color/purple_700" />
+
+            </LinearLayout>
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="0dp"
+            android:baselineAligned="false"
+            android:orientation="horizontal"
+            android:padding="16dp">
+
+            <LinearLayout
+                android:id="@+id/logo_boivochong"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center_horizontal|center_vertical"
+                android:orientation="vertical"
+                tools:ignore="UseCompoundDrawables">
+
+                <ImageView
+                    style="@style/home_image"
+                    android:adjustViewBounds="true"
+                    android:src="@drawable/icon_boivochong"
+                    tools:ignore="ContentDescription" />
+
+                <TextView
+                    style="@style/home_text_style"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="@string/home_boivochong"
+                    android:textColor="@color/purple_700" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/logo_cauduyen"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center_horizontal|center_vertical"
+                android:orientation="vertical"
+                tools:ignore="UseCompoundDrawables">
+
+                <ImageView
+                    style="@style/home_image"
+                    android:adjustViewBounds="true"
+                    android:src="@drawable/icon_cauduyen"
+                    tools:ignore="ContentDescription" />
+
+                <TextView
+                    style="@style/home_text_style"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="@string/home_cauduyen"
+                    android:textColor="@color/purple_700" />
+            </LinearLayout>
+
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="0dp"
+            android:baselineAligned="false"
+            android:orientation="horizontal"
+            android:padding="16dp">
+
+            <LinearLayout
+                android:id="@+id/logo_boiphuongdong"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center_horizontal|center_vertical"
+                android:orientation="vertical"
+                tools:ignore="UseCompoundDrawables">
+
+                <ImageView
+                    style="@style/home_image"
+                    android:adjustViewBounds="true"
+                    android:src="@drawable/icon_boiphuongdong"
+                    tools:ignore="ContentDescription" />
+
+                <TextView
+                    style="@style/home_text_style"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="@string/home_boiphuongdong"
+                    android:textColor="@color/purple_700" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/logo_vongxoaymayman"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center_horizontal|center_vertical"
+                android:orientation="vertical"
+                tools:ignore="UseCompoundDrawables">
+
+                <ImageView
+                    style="@style/home_image"
+                    android:adjustViewBounds="true"
+                    android:src="@drawable/vongxoay"
+                    tools:ignore="ContentDescription" />
+
+                <TextView
+                    style="@style/home_text_style"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="@string/home_vongquaymayman"
+                    android:textColor="@color/purple_700" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/logo_boiphuongtay"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center_horizontal|center_vertical"
+                android:orientation="vertical"
+                tools:ignore="UseCompoundDrawables">
+
+                <ImageView
+                    style="@style/home_image"
+                    android:adjustViewBounds="true"
+                    android:src="@drawable/icon_boiphuongtay"
+                    tools:ignore="ContentDescription" />
+
+                <TextView
+                    style="@style/home_text_style"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="@string/home_boiphuongtay"
+                    android:textColor="@color/purple_700" />
+            </LinearLayout>
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="0dp"
+            android:baselineAligned="false"
+            android:orientation="horizontal"
+            android:padding="16dp">
+
+            <LinearLayout
+                android:id="@+id/logo_truyentinhyeu"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center_horizontal|center_vertical"
+                android:orientation="vertical"
+                tools:ignore="UseCompoundDrawables">
+
+                <ImageView
+                    style="@style/home_image"
+                    android:adjustViewBounds="true"
+                    android:src="@drawable/icon_truyentinhyeu"
+                    tools:ignore="ContentDescription" />
+
+                <TextView
+                    style="@style/home_text_style"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="@string/home_truyentinhyeu"
+                    android:textColor="@color/purple_700" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/logo_ngontinh"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center_horizontal|center_vertical"
+                android:orientation="vertical"
+                tools:ignore="UseCompoundDrawables">
+
+                <ImageView
+                    style="@style/home_image"
+                    android:adjustViewBounds="true"
+                    android:src="@drawable/icon_ngontinh"
+                    tools:ignore="ContentDescription" />
+
+                <TextView
+                    style="@style/home_text_style"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="@string/home_ngontinh"
+                    android:textColor="@color/purple_700" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/logo_sangold"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center_horizontal|center_vertical"
+                android:orientation="vertical"
+                tools:ignore="UseCompoundDrawables">
+
+                <ImageView
+                    style="@style/home_image"
+                    android:adjustViewBounds="true"
+                    android:src="@drawable/icon_sangold"
+                    tools:ignore="ContentDescription" />
+
+                <TextView
+                    style="@style/home_text_style"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="@string/home_sanvang"
+                    android:textColor="@color/purple_700" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/logo_boi12congiap"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center_horizontal|center_vertical"
+                android:orientation="vertical"
+                tools:ignore="UseCompoundDrawables">
+
+                <ImageView
+                    style="@style/home_image"
+                    android:adjustViewBounds="true"
+                    android:src="@drawable/icon_boi12congiap"
+                    tools:ignore="ContentDescription" />
+
+                <TextView
+                    style="@style/home_text_style"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="@string/home_boi12congiap"
+                    android:textColor="@color/purple_700" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="0dp"
+            android:baselineAligned="false"
+            android:orientation="horizontal"
+            android:padding="16dp">
+
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="0dp"
+            android:baselineAligned="false"
+            android:orientation="horizontal"
+            android:padding="16dp">
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center_horizontal|center_vertical"
+                android:orientation="vertical"
+                tools:ignore="UseCompoundDrawables">
+
+                <ImageView
+                    style="@style/home_image"
+                    android:adjustViewBounds="true"
+                    tools:ignore="ContentDescription" />
+
+                <TextView
+                    style="@style/home_text_style"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text=""
+                    android:textColor="@color/purple_700" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center_horizontal|center_vertical"
+                android:orientation="vertical"
+                tools:ignore="UseCompoundDrawables">
+
+                <ImageView
+                    style="@style/home_image"
+                    android:adjustViewBounds="true"
+                    tools:ignore="ContentDescription" />
+
+                <TextView
+                    style="@style/home_text_style"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text=""
+                    android:textColor="@color/purple_700" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+</androidx.core.widget.NestedScrollView>

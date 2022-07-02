@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:context=".boiphuongtay.ActivityPhuongTayDetail">
+
+        <ImageView
+            android:id="@+id/pt_detail_img"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"
+            android:adjustViewBounds="true"
+            tools:ignore="ContentDescription" />
+
+        <TextView
+            android:id="@+id/pt_detail_txt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/pt_detail_img"
+            android:layout_marginTop="12dp"
+            android:padding="16dp"
+            android:textSize="16sp"
+            android:textColor="@android:color/black" />
+
+        <include
+            layout="@layout/item_footer_detaii"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@id/pt_detail_txt" />
+
+    </RelativeLayout>
+</ScrollView>

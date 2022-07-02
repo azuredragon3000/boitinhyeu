@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="mAppName">Love Test</string>
+
+    <string name="phuongdong_boiphuongdong">Oriental fortune telling</string>
+    <string name="phuongdong_tuoiti">Mouse</string>
+    <string name="phuongdong_tuoisuu">Buffalo</string>
+    <string name="phuongdong_tuoidan">Tiger</string>
+    <string name="phuongdong_tuoimao">Cat</string>
+    <string name="phuongdong_tuoithin">Dragon</string>
+    <string name="phuongdong_tuoiran">Snake</string>
+    <string name="phuongdong_tuoingo">Horse</string>
+    <string name="phuongdong_tuoimui">Goat</string>
+    <string name="phuongdong_tuoithan">Monkey</string>
+    <string name="phuongdong_tuoidau">Chicken</string>
+    <string name="phuongdong_tuoituat">Dog</string>
+    <string name="phuongdong_tuoihoi">Pig</string>
+
+    <string name="phuongtay_boiphuongtay">Western fortune telling</string>
+    <string name="phuongtay_aries">Aries</string>
+    <string name="phuongtay_taurus">Taurus</string>
+    <string name="phuongtay_gemini">Gemini</string>
+    <string name="phuongtay_cancer">Cancer</string>
+    <string name="phuongtay_leo">Leo</string>
+    <string name="phuongtay_virgo">Virgo</string>
+    <string name="phuongtay_libra">Libra</string>
+    <string name="phuongtay_scorpio">Scorpio</string>
+    <string name="phuongtay_sagittarius">Sagittarius</string>
+    <string name="phuongtay_capricorn">Capricorn</string>
+    <string name="phuongtay_aquarius">Aquarius</string>
+    <string name="phuongtay_pisces">Pisces</string>
+    <string name="phuongtay_january">January</string>
+    <string name="phuongtay_february">February</string>
+    <string name="phuongtay_march">March</string>
+    <string name="phuongtay_april">April</string>
+    <string name="phuongtay_may">May</string>
+    <string name="phuongtay_june">June</string>
+    <string name="phuongtay_july">July</string>
+    <string name="phuongtay_august">August</string>
+    <string name="phuongtay_september">September</string>
+    <string name="phuongtay_october">October</string>
+    <string name="phuongtay_november">November</string>
+    <string name="phuongtay_december">December</string>
+    <string name="phuongtay_somethingwrong">somethingwrong</string>
+
+    <string name="boitinhyeu_errorname">error, please check the year of birth and month of birth</string>
+    <string name="boitinhyeu_amlichnams">lunar year of man is:  </string>
+    <string name="boitinhyeu_cungnams">"man network: "</string>
+    <string name="boitinhyeu_amlichnus">"lunar year of girl is: "</string>
+    <string name="boitinhyeu_cungnus">"girl network: "</string>
+    <string name="boitinhyeu_thongtinthem">"this is only for reference "</string>
+    <string name="boitinhyeu_rulenam2020">man year is not over 2020 \n</string>
+    <string name="boitinhyeu_rulenam1900">man year is not smaller than 1900 \n</string>
+    <string name="boitinhyeu_rulenu2020">your female friend of year should not be more than 2020 \n</string>
+    <string name="boitinhyeu_rulenu1900">female friend of year must not be less than 1900 \n</string>
+    <string name="boitinhyeu_rulenam31">your male friend of date can not be older 31 \n</string>
+    <string name="boitinhyeu_rulenam0">your male friend of day cannot be less than 0 \n</string>
+    <string name="boitinhyeu_rulenu31">your girlfriend of day can not be older 31 \n</string>
+    <string name="boitinhyeu_rulenu0">female friend of day should not be less than 0 \n</string>
+    <string name="boitinhyeu_rulenam12">your male friend of month can not be more than 12 \n</string>
+    <string name="boitinhyeu_rulenammon0">your male friend of month cannot be less than 0 \n</string>
+    <string name="boitinhyeu_rulenu12">your female friend of month can not be more than 12 \n</string>
+    <string name="boitinhyeu_rulenumon0">female friend of month must not be less than 0 \n</string>
+    <string name="boitinhyeu_thongtin">inform</string>
+    <string name="boitinhyeu_khongdctrong">is not empty</string>
+    <string name="boitinhyeu_khongdcdeso">data must be number</string>
+
+    <string name="boivochong_chongioitinh">Choose Your Gender</string>
+    <string name="boivochong_title">guess the couple\'s name</string>
+    <string name="boivochong_tenban">your name</string>
+    <string name="boivochong_tenbannam">you are boy</string>
+    <string name="boivochong_tenbannu">you are girl</string>
+
+    <string name="getcoin_xemvideo">watch video get gold</string>
+    <string name="getcoin_50000gold">50.000 gold</string>
+    <string name="getcoin_100000gold">100.000 gold</string>
+    <string name="getcoin_300000gold">300.000 gold</string>
+
+    <string name="vongquaymayman_title">Rotation luck</string>
+    <string name="vongquaymayman_description">If you hit the red box, it means that \n you are very lucky about love\n blue means peach blossom \n the rest of the colors are normal.</string>
+    <string name="vongquaymayman_quay">Rotate</string>
+
+    <string name="home_napvang">Gold Recharge</string>
+    <string name="home_100gold">100 gold</string>
+    <string name="home_dangxuat">logout</string>
+    <string name="home_dangnhap">login</string>
+    <string name="home_boitinhyeu">Love test</string>
+    <string name="home_boivochong">Test couple</string>
+    <string name="home_cauduyen">Cupid</string>
+    <string name="home_boiphuongdong">Oriental fortune telling</string>
+    <string name="home_vongquaymayman">Wheel of Fortune</string>
+    <string name="home_boiphuongtay">Western fortune telling</string>
+    <string name="home_boi12congiap">Fortune telling of 12 Zodiacs</string>
+    <string name="home_sanvang">Gold Hunt</string>
+    <string name="home_ngontinh">quote</string>
+    <string name="home_truyentinhyeu">Love Story</string>
+    <string name="home_dangky">Register</string>
+
+    <string name="fragboitinhyeu_02">02</string>
+    <string name="fragboitinhyeu_tenbannam">Name of boy</string>
+    <string name="fragboitinhyeu_11">11</string>
+    <string name="fragboitinhyeu_1997">1997</string>
+    <string name="fragboitinhyeu_tenbannu">Name of girl</string>
+    <string name="fragboitinhyeu_1990">1990</string>
+    <string name="fragboitinhyeu_batdauboi">START</string>
+    <string name="fragboitinhyeu_100">100%</string>
+    <string name="fragboitinhyeu_0">0%</string>
+    <string name="fragboitinhyeu_phuongdong">Oriental fortune telling results</string>
+    <string name="fragboitinhyeu_xemketqua">View results</string>
+    <string name="fragboitinhyeu_phuongtay">Western Fortune Telling Results \n ( Zodiac sign )</string>
+
+    <string name="fragcauduyen_loikhuyennguyetlao">Ask for advice from Cupid</string>
+
+    <string name="fragboiphuongdong_nammang">man network</string>
+    <string name="fragboiphuongdong_noidung">content</string>
+    <string name="fragboiphuongdong_numang">girl network</string>
+    <string name="fragboiphuongdong_namsinh">Year of Birth</string>
+    <string name="fragboiphuongdong_amlich">Luna year</string>
+    <string name="fragboiphuongdong_mang">mạng</string>
+    <string name="fragboiphuongdong_cung">cung</string>
+    <string name="fragboiphuongdong_hanh">hành</string>
+
+    <string name="fragboiphuongtay_aries">aries</string>
+
+    <string name="fragfooter">~ Hết ~</string>
+
+    <string name="register_username">UserName</string>
+    <string name="resister_password">Password</string>
+    <string name="register_confirmpassword">confirm password</string>
+    <string name="register_register">Register</string>
+    <string name="register_login">Login</string>
+
+    <string name="login_title">Login</string>
+    <string name="login_signin">Login</string>
+    <string name="login_password">Password</string>
+    <string name="login_user">UserName</string>
+    <string name="login_failed">Login Failed</string>
+
+    <string name="cauduyen_title">Cupid</string>
+
+    <string name="action_settings">setting</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">DashBoard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="invalid_username">wrong UserName</string>
+    <string name="invalid_password">wrong PassWord</string>
+    <string name="prompt_password">Password</string>
+
+    <string-array name="boitinhyeu_cungmang">
+        <item>càn</item>
+        <item>khảm</item>
+        <item>cấn</item>
+        <item>chấn</item>
+        <item>tốn</item>
+        <item>ly</item>
+        <item>khôn</item>
+        <item>đoài</item>
+    </string-array>
+    <string-array name="tennam">
+        <item>Alan </item>
+        <item>Allan </item>
+        <item>Allen </item>
+        <item>Brian </item>
+        <item>Bryan </item>
+        <item>Cole </item>
+        <item>Colin </item>
+        <item>Collin </item>
+        <item>Conner </item>
+        <item>Corey </item>
+        <item>Cory </item>
+        <item>Damian </item>
+        <item>Damien </item>
+        <item>Damon </item>
+        <item>Derek </item>
+        <item>Derrick </item>
+        <item>Devin </item>
+        <item>Devon </item>
+        <item>Dilan </item>
+        <item>Dillon </item>
+        <item>Dominick </item>
+        <item>Dominik </item>
+        <item>Donovan </item>
+        <item>Dorian </item>
+        <item>Douglas </item>
+        <item>Drake </item>
+        <item>Duke </item>
+        <item>Dustin </item>
+        <item>Eric </item>
+        <item>Erick </item>
+        <item>Erik </item>
+        <item>Gary </item>
+        <item>Gavin </item>
+        <item>Gunnar </item>
+        <item>Gunner </item>
+        <item>Jared </item>
+        <item>Jason </item>
+    </string-array>
+    <string-array name="tennu">
+        <item>Olivia</item>
+        <item>Emma</item>
+        <item>Charlotte</item>
+        <item>Amelia</item>
+        <item>Ava</item>
+        <item>Sophia</item>
+        <item>Isabella</item>
+        <item>Mia</item>
+        <item>Evelyn</item>
+        <item>Harper</item>
+        <item>Luna</item>
+        <item>Camila</item>
+        <item>Gianna</item>
+        <item>Elizabeth</item>
+        <item>Eleanor</item>
+        <item>Ella</item>
+        <item>Abigail</item>
+        <item>Sofia</item>
+        <item>Avery</item>
+        <item>Scarlett</item>
+        <item>Emily</item>
+        <item>Aria</item>
+        <item>Penelope</item>
+        <item>Chloe</item>
+        <item>Layla</item>
+        <item>Mila</item>
+        <item>Nora</item>
+        <item>Hazel</item>
+        <item>Madison</item>
+        <item>Ellie</item>
+        <item>Lily</item>
+        <item>Nova</item>
+        <item>Isla</item>
+        <item>Grace</item>
+        <item>Violet</item>
+        <item>Aurora</item>
+        <item>Riley</item>
+        <item>Zoey</item>
+        <item>Willow</item>
+        <item>Emilia</item>
+        <item>Stella</item>
+        <item>Zoe</item>
+        <item>Victoria</item>
+        <item>Hannah</item>
+        <item>Lucy</item>
+    </string-array>
+</resources>

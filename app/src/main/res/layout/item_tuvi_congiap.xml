@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/item_congiap_layout"
+    android:background="@drawable/bg_item_congiap"
+    android:layout_margin="8dp"
+    >
+
+    <ImageView
+        android:adjustViewBounds="true"
+        android:padding="12dp"
+        android:id="@+id/item_congiap_img"
+        android:layout_width="170dp"
+        android:layout_height="170dp"
+        android:src="@drawable/dan"
+         />
+
+    <TextView
+        android:id="@+id/item_congiap_txt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/item_congiap_img"
+        android:layout_centerHorizontal="true"
+        android:fontFamily="monospace"
+        android:layout_marginBottom="2dp"
+        android:textColor="#fff"
+        android:text="@string/phuongdong_tuoidan"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+</RelativeLayout>

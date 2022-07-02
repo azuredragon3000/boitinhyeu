@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:shrinkColumns="*"
+    android:stretchColumns="*">
+
+    <TableRow
+        android:padding="12dp">
+
+        <TextView
+            android:id="@+id/item_cungmang_namsinh_txt"
+            style="@style/item_cung_mang"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight=".8"
+            android:text="@string/fragboiphuongdong_namsinh"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/item_cungmang_amlich_txt"
+            style="@style/item_cung_mang"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:text="@string/fragboiphuongdong_amlich"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/item_cungmang_mang_txt"
+            style="@style/item_cung_mang"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="3"
+            android:text="@string/fragboiphuongdong_mang"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/item_cungmang_cung_txt"
+            style="@style/item_cung_mang"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/fragboiphuongdong_cung"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/item_cungmang_hanh_txt"
+            style="@style/item_cung_mang"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/fragboiphuongdong_hanh"
+            android:textStyle="bold" />
+    </TableRow>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp" />
+</TableLayout>

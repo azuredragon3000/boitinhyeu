@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "840196891906",
+    "project_id": "projectlovetest",
+    "storage_bucket": "projectlovetest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840196891906:android:edc237562c7d9cb1348e1b",
+        "android_client_info": {
+          "package_name": "com.myapp.lovetest_azuredragon3000"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840196891906-22vpbais9er5bei924td8rvfi3194jqc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.myapp.lovetest_azuredragon3000",
+            "certificate_hash": "74a7c6732d43defc2789dfc1384bbb48ab308638"
+          }
+        },
+        {
+          "client_id": "840196891906-0n9999d58v6lh1j10i17smrcpf5msgg1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6yWtM2NFGdnzUaK5v-XARlmwHfrQ3P9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840196891906-0n9999d58v6lh1j10i17smrcpf5msgg1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

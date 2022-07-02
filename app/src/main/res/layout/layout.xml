@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:enabled="false"
+    android:orientation="horizontal"
+    android:paddingEnd="8dip"
+    tools:ignore="RtlSymmetry">
+
+    <Button
+        android:id="@+id/action_bar_title"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"/>
+
+    <Button
+        android:id="@+id/action_bar_sent2"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"/>
+
+    <Button
+        android:id="@+id/action_bar_staff2"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"/>
+
+    <Button
+        android:id="@+id/action_bar_locations2"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"/>
+
+</LinearLayout>

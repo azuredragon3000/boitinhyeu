@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="mAppName">Bói Tình yêu</string>
+
+    <string name="phuongdong_boiphuongdong">Bói Phương Đông</string>
+    <string name="phuongdong_tuoiti">Tuổi tí</string>
+    <string name="phuongdong_tuoisuu">Tuổi sửu</string>
+    <string name="phuongdong_tuoidan">Tuổi dần</string>
+    <string name="phuongdong_tuoimao">Tuổi mão</string>
+    <string name="phuongdong_tuoithin">Tuổi thìn</string>
+    <string name="phuongdong_tuoiran">Tuổi rắn</string>
+    <string name="phuongdong_tuoingo">Tuổi ngọ</string>
+    <string name="phuongdong_tuoimui">Tuổi mùi</string>
+    <string name="phuongdong_tuoithan">Tuổi thân</string>
+    <string name="phuongdong_tuoidau">Tuổi dậu</string>
+    <string name="phuongdong_tuoituat">Tuổi tuất</string>
+    <string name="phuongdong_tuoihoi">Tuổi hợi</string>
+
+    <string name="phuongtay_boiphuongtay">Bói Phương Tây</string>
+    <string name="phuongtay_aries">Aries</string>
+    <string name="phuongtay_taurus">Taurus</string>
+    <string name="phuongtay_gemini">Gemini</string>
+    <string name="phuongtay_cancer">Cancer</string>
+    <string name="phuongtay_leo">Leo</string>
+    <string name="phuongtay_virgo">Virgo</string>
+    <string name="phuongtay_libra">Libra</string>
+    <string name="phuongtay_scorpio">Scorpio</string>
+    <string name="phuongtay_sagittarius">Sagittarius</string>
+    <string name="phuongtay_capricorn">Capricorn</string>
+    <string name="phuongtay_aquarius">Aquarius</string>
+    <string name="phuongtay_pisces">Pisces</string>
+    <string name="phuongtay_january">January</string>
+    <string name="phuongtay_february">February</string>
+    <string name="phuongtay_march">March</string>
+    <string name="phuongtay_april">April</string>
+    <string name="phuongtay_may">May</string>
+    <string name="phuongtay_june">June</string>
+    <string name="phuongtay_july">July</string>
+    <string name="phuongtay_august">August</string>
+    <string name="phuongtay_september">September</string>
+    <string name="phuongtay_october">October</string>
+    <string name="phuongtay_november">November</string>
+    <string name="phuongtay_december">December</string>
+    <string name="phuongtay_somethingwrong">somethingwrong</string>
+
+    <string name="boitinhyeu_errorname">lỗi vui lòng check lại năm sinh và tháng sinh</string>
+    <string name="boitinhyeu_amlichnams">"năm sinh âm lịch của Nam là: "</string>
+    <string name="boitinhyeu_cungnams">"Nam thuộc cung: "</string>
+    <string name="boitinhyeu_amlichnus">"năm sinh âm lịch của Nữ là: "</string>
+    <string name="boitinhyeu_cungnus">"Nữ thuộc cung: "</string>
+    <string name="boitinhyeu_thongtinthem">"kết quả trên dựa vào dử liệu đúc kết từ thời trước nên không nên tin tuyệt đối, \n cơ bản vẫn là do cách sống 2 bên "</string>
+    <string name="boitinhyeu_rulenam2020">năm của bạn Nam không được quá 2020 \n</string>
+    <string name="boitinhyeu_rulenam1900">năm của bạn Nam  không được nhỏ hơn 1900 \n</string>
+    <string name="boitinhyeu_rulenu2020">năm của bạn nữ không được quá 2020 \n</string>
+    <string name="boitinhyeu_rulenu1900">năm của bạn nữ không được nhỏ hơn 1900 \n</string>
+    <string name="boitinhyeu_rulenam31">ngày của bạn nam không được lớn hơn 31 \n</string>
+    <string name="boitinhyeu_rulenam0">ngày của bạn nam không được nhỏ hơn bằng 0 \n</string>
+    <string name="boitinhyeu_rulenu31">ngày của bạn nữ không được lớn hơn 31 \n</string>
+    <string name="boitinhyeu_rulenu0">gày của bạn nữ không được nhỏ hơn bằng 0 \n</string>
+    <string name="boitinhyeu_rulenam12">tháng của bạn nam không được lớn hơn 12 \n</string>
+    <string name="boitinhyeu_rulenammon0">tháng của bạn nam không được nhỏ hơn bằng 0 \n</string>
+    <string name="boitinhyeu_rulenu12">tháng của bạn nữ không được lớn hơn 12 \n</string>
+    <string name="boitinhyeu_rulenumon0">tháng của bạn nữ không được nhỏ hơn bằng 0 \n</string>
+    <string name="boitinhyeu_thongtin">Thông Báo</string>
+    <string name="boitinhyeu_khongdctrong">Không được để trống</string>
+    <string name="boitinhyeu_khongdcdeso">"Ngày Tháng Phải là số "</string>
+
+    <string name="boivochong_chongioitinh">Chọn Giới Tính Của Bạn</string>
+    <string name="boivochong_title">đoán tên vợ chồng</string>
+    <string name="boivochong_tenban">tên bạn</string>
+    <string name="boivochong_tenbannam">bạn là nam</string>
+    <string name="boivochong_tenbannu">bạn là nữ</string>
+
+    <string name="getcoin_xemvideo">xem video lấy vàng</string>
+    <string name="getcoin_50000gold">50.000 gold</string>
+    <string name="getcoin_100000gold">100.000 gold</string>
+    <string name="getcoin_300000gold">300.000 gold</string>
+
+    <string name="vongquaymayman_title">Vòng Quay May Mắn</string>
+    <string name="vongquaymayman_description">Nếu bạn quay trúng ô đỏ, chứng tỏ rằng \n bạn rất may măn về tình yêu\n màu xanh chứng tỏ đào hoa \n các màu còn lại bình thường nhé</string>
+    <string name="vongquaymayman_quay">Quay</string>
+
+    <string name="home_napvang">Nạp vàng</string>
+    <string name="home_100gold">100 gold</string>
+    <string name="home_dangxuat">đăng xuất</string>
+    <string name="home_dangnhap">Đăng Nhập</string>
+    <string name="home_boitinhyeu">Bói Tình Yêu</string>
+    <string name="home_boivochong">Bói Vợ Chồng</string>
+    <string name="home_cauduyen">Cầu Duyên</string>
+    <string name="home_boiphuongdong">Bói Phương Đông</string>
+    <string name="home_vongquaymayman">Vòng xoay may mắn</string>
+    <string name="home_boiphuongtay">Bói Phương Tây</string>
+    <string name="home_boi12congiap">Bói 12 Con Giáp</string>
+    <string name="home_sanvang">Săn Vàng</string>
+    <string name="home_ngontinh">Ngôn Tình</string>
+    <string name="home_truyentinhyeu">Truyên Tình Yêu</string>
+    <string name="home_dangky">Đăng Ký</string>
+
+    <string name="fragboitinhyeu_02">02</string>
+    <string name="fragboitinhyeu_tenbannam">Tên Bạn Nam</string>
+    <string name="fragboitinhyeu_11">11</string>
+    <string name="fragboitinhyeu_1997">1997</string>
+    <string name="fragboitinhyeu_tenbannu">Tên Bạn Nữ</string>
+    <string name="fragboitinhyeu_1990">1990</string>
+    <string name="fragboitinhyeu_batdauboi">BẮT ĐẦU BÓI</string>
+    <string name="fragboitinhyeu_100">100%</string>
+    <string name="fragboitinhyeu_0">0%</string>
+    <string name="fragboitinhyeu_phuongdong">Kết quả Bói Phương Đông</string>
+    <string name="fragboitinhyeu_xemketqua">Xem kết quả</string>
+    <string name="fragboitinhyeu_phuongtay">Kết quả Bói Phương Tây \n ( Cung Hoàng Đạo )</string>
+
+    <string name="fragcauduyen_loikhuyennguyetlao">xin lời khuyên từ Nguyệt Lão</string>
+
+    <string name="fragboiphuongdong_nammang">nam mạng</string>
+    <string name="fragboiphuongdong_noidung">nội dung</string>
+    <string name="fragboiphuongdong_numang">nữ mạng</string>
+    <string name="fragboiphuongdong_namsinh">năm sinh</string>
+    <string name="fragboiphuongdong_amlich">âm lịch</string>
+    <string name="fragboiphuongdong_mang">mạng</string>
+    <string name="fragboiphuongdong_cung">cung</string>
+    <string name="fragboiphuongdong_hanh">hành</string>
+
+    <string name="fragboiphuongtay_aries">aries</string>
+
+    <string name="fragfooter">~ Hết ~</string>
+
+    <string name="register_username">UserName</string>
+    <string name="resister_password">Password</string>
+    <string name="register_confirmpassword">confirm password</string>
+    <string name="register_register">Register</string>
+    <string name="register_login">Login</string>
+
+    <string name="login_title">Login</string>
+    <string name="login_signin">Đăng Nhập</string>
+    <string name="login_password">Password</string>
+    <string name="login_user">UserName</string>
+    <string name="login_failed">Login Failed</string>
+
+    <string name="cauduyen_title">Cầu Duyên</string>
+
+    <string name="action_settings">setting</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">DashBoard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="invalid_username">Sai UserName</string>
+    <string name="invalid_password">Sai PassWord</string>
+    <string name="prompt_password">Password</string>
+
+    <string-array name="boitinhyeu_cungmang">
+        <item>càn</item>
+        <item>khảm</item>
+        <item>cấn</item>
+        <item>chấn</item>
+        <item>tốn</item>
+        <item>ly</item>
+        <item>khôn</item>
+        <item>đoài</item>
+    </string-array>
+    <string-array name="tennam">
+        <item>Anh Dũng</item>
+        <item>Anh Minh</item>
+        <item>Chí Kiên</item>
+        <item>Chí Thanh</item>
+        <item>Đăng Khoa</item>
+        <item>Chiến Thắng</item>
+        <item>Đức Tài</item>
+        <item>Đình Trung</item>
+        <item>Gia Huy</item>
+        <item>Hải Đăng</item>
+        <item>Huy Hoàng</item>
+        <item>Hữu Đạt</item>
+        <item>Hùng Cường</item>
+        <item>Hoàng Phi</item>
+        <item>Mạnh Khôi</item>
+        <item>Kiến Văn</item>
+        <item>Hữu Phước</item>
+        <item>Khôi Vĩ</item>
+        <item>Mạnh Hùng</item>
+        <item>Minh Quang</item>
+        <item>Thành Công</item>
+        <item>Thành Đạt</item>
+        <item>Thanh Tùng</item>
+        <item>Quang Mạnh</item>
+        <item>Nam Khánh</item>
+        <item>Thái Hưng</item>
+        <item>Đức Trung</item>
+        <item>Quang Khải</item>
+        <item>Minh Khôi</item>
+        <item>Gia Khánh</item>
+        <item>Trường An</item>
+        <item>Việt Dũng</item>
+        <item>Hoàng Minh</item>
+        <item>Anh Tuấn</item>
+        <item>Quốc Trung</item>
+        <item>Minh Nam</item>
+        <item>Thế Bảo</item>
+    </string-array>
+    <string-array name="tennu">
+        <item>Bảo Vy</item>
+        <item>Cát Tường</item>
+        <item>Gia Hân</item>
+        <item>Hoài An</item>
+        <item>Khả Hân</item>
+        <item>Khánh Ngọc</item>
+        <item>Khánh Ngân</item>
+        <item>Linh Chi</item>
+        <item>Ngọc Khuê</item>
+        <item>Phúc An</item>
+        <item>Thanh Hà</item>
+        <item>Bích Hà</item>
+        <item>Thanh Thúy</item>
+        <item>An Ngọc</item>
+        <item>Khánh Châu</item>
+        <item>Kim Ngân</item>
+        <item>Tuyết Nhung</item>
+        <item>Yến Nhi</item>
+        <item>Vân Khánh</item>
+        <item>An Diệp</item>
+        <item>Cát Anh</item>
+        <item>Cẩm Anh</item>
+        <item>An Nhiên</item>
+        <item>Quỳnh Anh</item>
+        <item>Phương Linh</item>
+        <item>Hoài Thương</item>
+        <item>Thiên Bình</item>
+        <item>Thanh Thảo</item>
+        <item>Hiền Châu</item>
+        <item>Mai Ngọc</item>
+        <item>Hồng Diễm</item>
+        <item>Bích Thảo</item>
+        <item>Bích Thủy</item>
+        <item>Ðoan Trang</item>
+        <item>Đan Tâm</item>
+        <item>Hiền Nhi</item>
+        <item>Hiền Thục</item>
+        <item>Hương Thảo</item>
+        <item>Minh Tâm</item>
+        <item>Mỹ Tâm</item>
+        <item>Phương Thùy</item>
+        <item>Phương Trinh</item>
+        <item>Nhã Phương</item>
+        <item>Phương Thảo</item>
+        <item>Thanh Mai</item>
+    </string-array>
+
+</resources>

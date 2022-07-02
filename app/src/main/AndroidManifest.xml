@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.myapp.lovetest_azuredragon3000">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission
+        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+        tools:ignore="ScopedStorage" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <application
+        android:name=".common.SubApp"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="Bói Tình Yêu"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.azuredragon"
+        tools:replace="android:label">
+
+        <activity
+            android:name=".home.ActivityHomeMemberScrolling"
+            android:theme="@style/Theme.Fab_Bottom_app_bar.NoActionBar"
+            android:exported="false" />
+
+        <activity
+            android:name=".home.ActivityHomeNoMemberScrolling"
+            android:theme="@style/Theme.Fab_Bottom_app_bar.NoActionBar"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".luckydraw.ActivityLuckyCirle"
+            android:exported="false" />
+
+        <activity
+            android:name=".login.LoginActivity"
+            android:exported="false"
+            android:label="@string/login_title" />
+
+        <activity
+            android:name=".cauduyen.ActivityCauDuyen"
+            android:exported="false"
+            android:label="@string/cauduyen_title" />
+
+        <activity
+            android:name=".getcoint.ActivityGetCoin"
+            android:exported="false" />
+
+        <activity android:name=".boitinhyeu.ActivityBTYMain" />
+        <activity android:name=".truyentinhyeu.ActivityTruyenTinhYeu" />
+        <activity android:name=".boivochong.ActivityBoiChongVo" />
+        <activity android:name=".congiap12.ActivityCungMang" />
+        <activity android:name=".ngontinh.ActivityNgonTinh" />
+        <activity android:name=".congiap12.ActivityNamSinhMain" />
+        <activity android:name=".congiap12.ActivityNamSinhDetail" />
+        <activity android:name=".congiap12.ActivityNamSinh" />
+        <activity android:name=".boiphuongdong.ActivityPhuongDong" />
+        <activity android:name=".boiphuongtay.ActivityPhuongTay" />
+        <activity android:name=".boiphuongdong.ActivityPhuongDongDetail" />
+        <activity android:name=".boiphuongtay.ActivityPhuongTayDetail" />
+        <activity android:name=".register.ActivityRegisterApp" />
+
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-8404443559572571~7405406639" />
+
+    </application>
+
+</manifest>

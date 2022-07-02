@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?><resources>
+
+     <color name="action_bar">#ff0d0d0d</color>
+     <color name="white">#ffffffff</color>
+     <color name="off_white">#99ffffff</color>
+     <color name="purple_700">#7B1FA2</color>
+     <color name="White">#FFFFFF</color>
+     <color name="teal_200">#80CBC4</color>
+     <color name="teal_700">#00796B</color>
+     <color name="Black">#000000</color>
+     <color name="colorDivider">#BDBDBD</color>
+     <color name="red_50">#FFEBEE</color>
+</resources>
